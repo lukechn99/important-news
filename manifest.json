@@ -1,0 +1,17 @@
+{
+    "name": "News Summary",
+    "version": "0.0.1",
+    "description": "A summary of Term Sheet, The Sofi Daily, Morning Brew, Candor",
+    "manifest_version": 3,
+    "author": "Luke Chen",
+    "action": {
+        "default_popup": "index.html",
+        "default_title": "Summarnews"
+    },
+    "permissions": [
+        "storage",
+        "activeTab",
+        "tabs",
+        "system.cpu"
+      ]
+}
